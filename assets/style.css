@@ -1,3 +1,27 @@
 body {
-  background-color: grey;
+  background-color:antiquewhite;
+  
 }
+
+header {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.instructions {
+border: 2px solid black;
+text-align: center;
+background-color: cornflowerblue;
+font-weight: bold;
+font-size: 1.0em;
+}
+ .container {
+   text-align: center;
+ }
+
+ .wells {
+   border: 2px solid black;
+   padding-left: 40px;
+   background-color: lightblue;
+ }
